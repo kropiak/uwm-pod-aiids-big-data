@@ -16,7 +16,7 @@ W trakcie zajęć przedstawione zostaną poniższe narzędzia:
 * Apache Hadoop,
 * wykorzystanie Apache Spark w rozproszonym ML.
 
-W trakcie zajęć będzie wykorzystywany interpreter **Pythona w wersji 3.11.9** oraz głównie oprogramowanie **Jupyter Lab** z dostępem poprzez przeglądarkę internetową.
+W trakcie zajęć będzie wykorzystywany interpreter **Pythona w wersji 3.12.7 (możliwe również, że wersja 3.11 w przypadku systemu Spark)** oraz głównie oprogramowanie **Jupyter Lab** z dostępem poprzez przeglądarkę internetową.
 W późniejszej fazie zajęć, w zależności od możliwości, może pojawić się konieczność wykorzystania oprogramowania Docker.
 
 ## 1. Forma zajęć
